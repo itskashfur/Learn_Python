@@ -14,11 +14,9 @@ Here, I practice and store:
 - Mini projects
 - Problem-solving exercises
 - Notes and experiments
-
+<hr>
 My goal is to become confident in Python and build real-world projects.
-
 ---
-
 ## 🚀 Topics Covered So Far
 
 ✔️ Python Basics  
