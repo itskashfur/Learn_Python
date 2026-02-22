@@ -41,9 +41,7 @@ Python-learning --
 | Practice
 
 Each folder contains examples and exercises.
-
 ---
-
 ## 🛠️ How to Run the Programs
 
 1. Install Python from:
